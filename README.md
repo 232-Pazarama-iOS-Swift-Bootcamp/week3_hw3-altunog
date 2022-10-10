@@ -20,7 +20,7 @@
 
 ### Overview of the app
 
-<img src="https://github.com/232-Pazarama-iOS-Swift-Bootcamp/week3_hw3-altunog/itunesapp.gif" height="300" />
+![app](itunesapp.gif)
 
 
 ## iTunes Client App
