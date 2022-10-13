@@ -13,14 +13,14 @@
 ## To Be Improved
 
 - Add favorite button for all media types
-- Functional Core data integration 
+- Fully functional Core data integration 
 - Favorites Detail View
 - Remove from Favorites
 
 
 ### Overview of the app
 
-![app](itunesapp.gif)
+https://user-images.githubusercontent.com/53496232/195713465-38f03d47-e5c3-41c3-9593-9419bd1c1543.mp4
 
 
 ## iTunes Client App
@@ -38,6 +38,10 @@ Bu haftanın ödev konusu olarak, geliştirdiğimiz iTunes Client App uygulamas�
 
 
 ## Faydalı Linkler
+
+
+
+
 
 - iTunes Search API: https://developer.apple.com/library/archive/documentation/AudioVideo/ Conceptual/iTuneSearchAPI/Searching.html#//apple_ref/doc/uid/TP40017632-CH5-SW1
   
